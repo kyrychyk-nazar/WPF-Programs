@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Copy_Icon.png" />
+    <None Remove="Cut_Icon.png" />
+    <None Remove="Paste_Icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\Copy_Icon.png" />
+    <Resource Include="Icons\Cut_Icon.png" />
+    <Resource Include="Icons\Paste_Icon.png" />
+  </ItemGroup>
+
+</Project>
