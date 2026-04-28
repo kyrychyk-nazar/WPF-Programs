@@ -19,3 +19,24 @@ C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows\Lab1.genruntimeconfig.cache
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows\ref\Lab1.dll
 C:\Users\Roma\OneDrive\Рабочий стол\WPF\Lab1\obj\Debug\net9.0-windows\Lab1.sourcelink.json
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.dll
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\refint\Lab1.dll
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.pdb
+D:\Projects\WPF_LR\WPF-Programs\Lab1\bin\Debug\net9.0-windows\Lab1.exe
+D:\Projects\WPF_LR\WPF-Programs\Lab1\bin\Debug\net9.0-windows\Lab1.deps.json
+D:\Projects\WPF_LR\WPF-Programs\Lab1\bin\Debug\net9.0-windows\Lab1.runtimeconfig.json
+D:\Projects\WPF_LR\WPF-Programs\Lab1\bin\Debug\net9.0-windows\Lab1.dll
+D:\Projects\WPF_LR\WPF-Programs\Lab1\bin\Debug\net9.0-windows\Lab1.pdb
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\App.g.cs
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1_MarkupCompile.cache
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1_MarkupCompile.lref
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.g.resources
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.AssemblyInfoInputs.cache
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.AssemblyInfo.cs
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.csproj.CoreCompileInputs.cache
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.sourcelink.json
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\Lab1.genruntimeconfig.cache
+D:\Projects\WPF_LR\WPF-Programs\Lab1\obj\Debug\net9.0-windows\ref\Lab1.dll
